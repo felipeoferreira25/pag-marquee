@@ -1,0 +1,17 @@
+body{
+    background-image: url(img-9.jpg); background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-size: 100%;
+}
+mark{
+    background-color: #3fe93f;
+}
+
+marquee{
+    position: absolute;
+    height: 100%;
+    color:#299229
+}
+code{color: aqua;}
+body{color:aqua}
